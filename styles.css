@@ -1,0 +1,15 @@
+h1,
+h2 {
+    font-family: "Times New Roman", serif;
+    color: rgb(0, 0, 102);
+    font-weight: 800;
+}
+
+p,
+li {
+    font-family: Helvetica, sans-serif;
+}
+
+* {
+    background-color: rgb(200, 200, 200);
+}
